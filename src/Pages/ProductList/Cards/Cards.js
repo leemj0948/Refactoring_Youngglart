@@ -20,7 +20,7 @@ const Cards = props => {
     Boolean(props.artistData.profile_image_url) && (
       <Layer
         backColor={props.backColor}
-        style={{ height: moreData ? 'auto' : '300px' }}
+        style={{ height: moreData ? 'auto' : '350px' }}
       >
         <ArtWork>
           <Artist>
