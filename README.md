@@ -3,25 +3,21 @@
 ## 🖥 프로젝트 소개
 
 React를 사용한 'Singulart' 웹사이트 클론  
+리팩토링 진행
 http://3.35.82.99/
 
 ## 📅 프로젝트 기간
 
 2021.04.26 ~ 2021.05.06
+refactoring: 2021.06.14 ~
 
 ## 🎥 프로젝트 시연영상
 
 https://vimeo.com/546376548
 
-## 👩🏻‍💻🧑🏻‍💻 프로젝트 참가자 (Front & Back)
+## 👩🏻‍💻🧑🏻‍💻 리팩토링 참가자 (Front)
 
-🔜 FrontEnd
-
-- 김남선, 이명진, 황재원
-
-🔙 BackEnd
-
-- 문희원, 서득영
+이명진
 
 ## 🔧 기술 스택
 
@@ -34,25 +30,6 @@ https://vimeo.com/546376548
   ![EC2](https://img.shields.io/badge/-EC2-green)  
   ![S3](https://img.shields.io/badge/-S3-DA5041)  
   ![Github Action](<https://img.shields.io/badge/-Github Action-333333>)
-
-- BackEnd
-
-  ![Python](https://img.shields.io/badge/-Python-376FA0)  
-  ![Django](https://img.shields.io/badge/-Django-043829)  
-  ![CORS Header](<https://img.shields.io/badge/-CORS Header-F0DB4D>)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-DD8A00)  
-  ![RDS](https://img.shields.io/badge/-RDS-black)  
-  ![EC2](https://img.shields.io/badge/-EC2-green)  
-  ![S3](https://img.shields.io/badge/-S3-DA5041)  
-  ![Docker](https://img.shields.io/badge/-Docker-blue)  
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-pink)
-
-- 협업 도구
-
-  ![Slack](https://img.shields.io/badge/-Slack-D91D57)  
-  ![Git](https://img.shields.io/badge/-Git-black)  
-  ![Trello](https://img.shields.io/badge/-Trello-036AA7)  
-  ![Notion](https://img.shields.io/badge/-Notion-000000)
 
 ---
 
@@ -88,14 +65,7 @@ https://vimeo.com/546376548
 
 ## 🔜 Frontend
 
-[김남선](https://velog.io/@nsunny0908/Singulart-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)  
-[이명진]  
-[황재원]
-
-## 🔙 Backend
-
-[문희원]  
-[서득영]
+[이명진]
 
 ---
 
